@@ -1,2 +1,2 @@
 # Practicals
-AI &amp; DBMS 
+AI 
